@@ -1,4 +1,4 @@
-import styles from './styles';
 import LastConverted from './LastConverted';
+import styles from './styles';
 
-export { styles, LastConverted };
+export { LastConverted, styles };

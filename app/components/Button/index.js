@@ -1,4 +1,4 @@
-import styles from './styles';
 import ClearButton from './ClearButton';
+import styles from './styles';
 
-export { styles, ClearButton };
+export { ClearButton, styles };
